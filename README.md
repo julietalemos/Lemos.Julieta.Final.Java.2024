@@ -35,3 +35,9 @@ Operaciones:
 6. Guardar: Seleccionar método de guardado (JSON, CSV, DAT) → Nombrar al archivo
 7. Cargar: Seleccionar método de carga de archivo → Seleccionar archivo
 8. Exportar: Exporta un archivo txt tipo Reporte con todos los vehiculos
+
+### Archivos generados
+![JSON](vehiculos.json)
+![CSV](vehiculos.csv)
+![DAT](vehiculos.dat)
+![TXT](vehiculos.txt)
