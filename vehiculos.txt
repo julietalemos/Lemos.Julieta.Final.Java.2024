@@ -1,0 +1,109 @@
+          LISTADO DE VEHÍCULOS - GARAGE
+═══════════════════════════════════════════════════════
+
+
+AUTO
+Id: 0
+Patente: AA123
+Marca: TOYOTA
+Modelo: COROLLA
+Anio: 2017
+Estado: DISPONIBLE
+Combustible: NAFTA
+Precio: 1000.0
+Numero de puertas: 5
+Tiene Aire Acond.: Si
+
+
+AUTO
+Id: 1
+Patente: BB123
+Marca: TOYOTA
+Modelo: YARIS
+Anio: 2026
+Estado: DISPONIBLE
+Combustible: NAFTA
+Precio: 1200.0
+Numero de puertas: 5
+Tiene Aire Acond.: Si
+
+
+AUTO
+Id: 2
+Patente: CC123
+Marca: FORD
+Modelo: FOCUS
+Anio: 2015
+Estado: DISPONIBLE
+Combustible: NAFTA
+Precio: 3000.0
+Numero de puertas: 5
+Tiene Aire Acond.: No
+
+
+MOTO
+Id: 3
+Patente: AB555
+Marca: YAMAHA
+Modelo: MT
+Anio: 2020
+Estado: RESERVADO
+Combustible: GAS
+Precio: 1000.0
+Cilindrada: 150
+Es deportiva: No
+
+
+MOTO
+Id: 4
+Patente: BC555
+Marca: HONDA
+Modelo: WAVE
+Anio: 2025
+Estado: RESERVADO
+Combustible: NAFTA
+Precio: 8888.0
+Cilindrada: 250
+Es deportiva: No
+
+
+MOTO
+Id: 5
+Patente: CB555
+Marca: GILERA
+Modelo: SMASH
+Anio: 2026
+Estado: DISPONIBLE
+Combustible: NAFTA
+Precio: 9999.0
+Cilindrada: 600
+Es deportiva: Si
+
+
+CAMION
+Id: 6
+Patente: ZZ321
+Marca: MERCEDES
+Modelo: ARTIC
+Anio: 2026
+Estado: NO_DISPONIBLE
+Combustible: NAFTA
+Precio: 9000.0
+Capacidad de carga: 10
+Numero de ruedas: 6
+
+
+CAMION
+Id: 7
+Patente: ZZ987
+Marca: IVECO
+Modelo: WONDER
+Anio: 2006
+Estado: DISPONIBLE
+Combustible: NAFTA
+Precio: 6000.0
+Capacidad de carga: 6
+Numero de ruedas: 6
+
+══════════════════ FIN DEL LISTADO ══════════════════
+
