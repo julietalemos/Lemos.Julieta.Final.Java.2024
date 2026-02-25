@@ -10,6 +10,20 @@ La aplicación permite gestionar distintos tipos de vehículos (**autos, motos y
 - Interfaz gráfica en JavaFX para visualizar y manipular la información.
 
 ### Capturas de pantalla
+![Pantalla principal](CapturasProyecto/VistaGeneral.png)
+![Agregar vehiculo](CapturasProyecto/AgregarVehiculo.png)
+![Actualizar vehiculo](CapturasProyecto/EditarVehiculo.png)
+![Eliminar Vehiculo](CapturasProyecto/EliminarVehiculo.png)
+![Ordenamiento](CapturasProyecto/Ordenamiento.png)
+![Filtro por marca](CapturasProyecto/FiltroPorMarca.png)
+![Filtro por estado](CapturasProyecto/FiltroPorEstado.png)
+![Descuento general](CapturasProyecto/DescuentoGeneral.png)
+![Descuento Antiguedad](CapturasProyecto/DescuentoAntiguos.png)
+![Dialogs Respuestas](CapturasProyecto/DialogsRespuestas.png)
+![Persistencia](CapturasProyecto/GuardadoDatos.png)
+
+### Diagrama UML
+![Diagrama UML](ConcesionariaDiagramUML.png)
 
 ### Como usar la aplicación
 Operaciones:
